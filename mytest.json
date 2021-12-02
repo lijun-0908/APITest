@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "软件性能测试与LoadRunner实战教程",
+      "author": "于涌"
+    },
+    {
+      "id": 2,
+      "title": "精通移动App测试实战",
+      "author": "于涌"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "性能测试图书",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "content": "App测试图书",
+      "postId": 2
+    }
+  ],
+  "press": {
+    "name": "出版社"
+  }
+}

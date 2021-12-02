@@ -1,0 +1,30 @@
+{
+  "Tools": [
+    {
+      "id": 1,
+      "name": "LoadRunner"
+    },
+    {
+      "id": 2,
+      "name": "QTP"
+    },
+    {
+      "id": 3,
+      "name": "Selenium"
+    },
+    {
+      "id": 4,
+      "name": "C语言"
+    }
+  ],
+  "Languages": [
+    {
+      "id": 2,
+      "name": "英语"
+    },
+    {
+      "id": 3,
+      "name": "法语"
+    }
+  ]
+}
